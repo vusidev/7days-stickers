@@ -1,0 +1,136 @@
+* {
+box-sizing: border-box;
+}
+
+body {
+background-color: white;
+}
+
+#h1 {
+color: black;
+font-size: 30px;
+font-family: "Arial",sans-serif;
+text-align: center;
+}
+
+#p {
+color: black;
+font-size: 18px;
+font-family: "Arial",sans-serif;
+text-align: center;
+}
+
+
+
+#mon {
+color: white;
+font-family: "serif","monospace",sans-serif;
+font-size: 25px;
+text-align: center;
+height: 200px;
+width: 80%;
+outline: none;
+border-radius: 5px;
+margin-left: 10px;
+margin-top: 50px;
+background-color: skyblue;
+border: 2px #38ACEC outset;
+}
+
+
+#tue {
+color: white;
+font-family: "serif","monospace",sans-serif;
+font-size: 25px;
+text-align: center;
+height: 200px;
+width: 80%;
+outline: none;
+border-radius: 5px;
+margin-left: 50px;
+margin-top: 50px;
+background-color: orange;
+border: 2px darkorange outset;
+}
+
+
+#wen {
+color: white;
+font-family: "serif","monospace",sans-serif;
+font-size: 25px;
+text-align: center;
+height: 200px;
+width: 80%;
+outline: none;
+border-radius: 5px;
+margin-left: 10px;
+margin-top: 50px;
+background-color: #54C571;
+border: 2px #6AFB92 outset;
+}
+
+
+#thur {
+color: white;
+font-family: "serif","monospace",sans-serif;
+font-size: 25px;
+text-align: center;
+height: 200px;
+width: 80%;
+outline: none;
+border-radius: 5px;
+margin-left: 50px;
+margin-top: 50px;
+background-color: #C12869;
+border: 2px #F535AA outset;
+}
+
+
+#fri {
+color: white;
+font-family: "serif","monospace",sans-serif;
+font-size: 25px;
+text-align: center;
+height: 200px;
+width: 80%;
+outline: none;
+border-radius: 5px;
+margin-left: 10px;
+margin-top: 50px;
+background-color: #00FFFF;
+border: 2px #ADD8E6 outset;
+}
+
+
+
+#sat {
+color: white;
+font-family: "serif","monospace",sans-serif;
+font-size: 25px;
+text-align: center;
+height: 200px;
+width: 80%;
+outline: none;
+border-radius: 5px;
+margin-left: 50px;
+margin-top: 50px;
+background-color: #FFFF00;
+border: 2px #FFD700 outset;
+}
+
+
+
+#sun {
+color: white;
+font-family: "serif","monospace",sans-serif;
+font-size: 25px;
+text-align: center;
+height: 200px;
+width: 80%;
+outline: none;
+border-radius: 5px;
+margin-left: 10px;
+margin-top: 50px;
+background-color: #FF6347;
+border: 2px #FF4500 outset;
+}
